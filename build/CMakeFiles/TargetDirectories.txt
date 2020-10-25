@@ -1,0 +1,3 @@
+/home/action/zyj/cvHomework/build/CMakeFiles/edit_cache.dir
+/home/action/zyj/cvHomework/build/CMakeFiles/rebuild_cache.dir
+/home/action/zyj/cvHomework/build/CMakeFiles/Test.dir
